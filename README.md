@@ -11,8 +11,7 @@ This is a ROS package for audio_common running on ROS services. All coding struc
 > apt-get install libgstreamer-plugins-base1.0-dev gstreamer1.0-libav gstreamer1.0-plugins-bad gstreamer1.0-plugins-bad-dbg gstreamer1.0-plugins-ugly gstreamer1.0-plugins-ugly-dbg gstreamer1.0-plugins-good gstreamer1.0-plugins-good-dbg
 
 - Festival
-> The festival is located in "Linux_for_Tegra/PegaMisc" folder.
-> But the package could be re-built by the following steps:
+> The package could be re-built by the following steps:
 
 ### 1. Download source code from [festival version 2.4](http://festvox.org/packed/festival/2.4/)
 #### 1-1. Need to download `festival-2.4-release.tar.gz`, `festival-2.4-release.tar.gz`, `festlex_OALD.tar.gz`, `festlex_OALD.tar.gz` and `speech_tools-2.4-release.tar.gz`
